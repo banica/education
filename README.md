@@ -1,6 +1,4 @@
-# education
-Education
-
+# Readme
 
 Acest repository conține lucrări de licență puse la dispoziție în scop educațional și pentru studiu personal.
 
